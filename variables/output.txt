@@ -1,0 +1,5 @@
+felix@myserver:~/cprogramming/variables$ ./a.out
+Hello Felix Thomas
+You are 23 years old
+Your average grade is C
+Your cgpa is 7.290000
