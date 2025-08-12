@@ -1,0 +1,3 @@
+felix@myserver:~/cprogramming$ ./a.out
+
+Hello World! Welcome
