@@ -1,0 +1,12 @@
+main1
+
+felix@myserver:~/cprogramming/math_funcs$ gcc main1.c -lm
+felix@myserver:~/cprogramming/math_funcs$ ./a.out
+3.000000
+729
+5.000000
+5.000000
+4.000000
+4.000000
+1.531247
+0.850904
