@@ -1,0 +1,3 @@
+felix@myserver:~/cprogramming/arithmetic_ops$ ./a.out
+0
+10
