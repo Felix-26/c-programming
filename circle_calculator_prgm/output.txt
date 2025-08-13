@@ -1,0 +1,8 @@
+felix@myserver:~/cprogramming/circle_calculator_prgm$ ./a.out
+enter the radius of the circle or the sphere: 10
+The radius is 10.000000 cm
+
+Circumferance of the circle = 62.857143cm
+Area of the circle = 314.285714^2
+Volume of the sphere = 4190.476190cm^3
+Suraface area of the sphere = 1257.142857cm^2
