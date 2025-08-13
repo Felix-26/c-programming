@@ -1,0 +1,35 @@
+main1
+
+
+felix@myserver:~/cprogramming/mad_libs_game$ ./a.out
+Enter an adjective (description): fast
+Enter a noun (animal or person): felix
+Enter an adjective (description): cool
+Enter a verb (ending w/ -ing)running
+Enter an adjective (description): funny
+felix
+
+running
+
+fast
+
+cool
+
+fast
+
+main2
+
+
+main2
+
+
+felix@myserver:~/cprogramming/mad_libs_game$ ./a.out
+Enter an adjective (description): sussy
+Enter a noun (animal or person): Mark Zukerburg
+Enter an adjective (description): sweaty
+Enter a verb (ending w/ -ing): screaming
+Enter an adjective (description): surprised
+Today I went to a sussy zoo.
+In an exhibit, I saw a Mark Zukerburg
+Mark Zukerburg was sweaty and screaming!
+I was surprised!
