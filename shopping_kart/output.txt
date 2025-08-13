@@ -1,0 +1,9 @@
+felix@myserver:~/cprogramming/shopping_kart$ ./a.out
+what items would you like to buy?
+pizzas
+what is the price for each?
+12.99
+how many would you like?:
+4
+You have bought 4 pizzas
+$51.96
