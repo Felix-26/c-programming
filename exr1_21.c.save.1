@@ -1,0 +1,23 @@
+#include<stdio.h>
+
+#define IN 1
+#define OUT 0
+
+int main() {
+	int nc=0,ns=0,i,c;
+	while((c=getchar())!=EOF) {
+		if(c!='\n') {
+			nc++;
+			if(c=='.'){
+				ns++;
+				if((ns+nc)%8==0) {
+					putchar('\t');
+					ns = 0;
+				}//use state+
+			} else {
+				putchar(c);
+			}
+		}
+	}
+	return 0;
+}
