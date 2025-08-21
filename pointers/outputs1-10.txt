@@ -1,0 +1,73 @@
+main1.c
+
+felix@myserver:~/cprogramming/pointers$ ./a.out
+variable value = 2025
+value pointed by the pointer = 2025
+
+main2.c
+
+felix@myserver:~/cprogramming/pointers$ ./a.out
+before swapping x = 23,y = 10
+after swapping x = 10,y = 23
+
+main3.c
+
+felix@myserver:~/cprogramming/pointers$ ./a.out
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+Sum of the array = 78.
+
+main4.c
+
+felix@myserver:~/cprogramming/pointers$ ./a.out
+Array = {3,5,9,2,4,1,6,7,8,10,11,}
+The largest element in the array = 11.
+
+main5.c
+
+felix@myserver:~/cprogramming/pointers$ ./a.out
+Enter the string :
+felix
+length of the string = 5.
+
+main6.c
+
+felix@myserver:~/cprogramming/pointers$ ./a.out
+enter the string : felix
+
+xilef
+
+main7.c
+
+felix@myserver:~/cprogramming/pointers$ ./a.out
+**dptr = *ptr = x = 2025
+
+main8.c
+
+felix@myserver:~/cprogramming/pointers$ ./a.out
+enter the number of vars : 3
+enter the value of var[0] = 1
+enter the value of var[1] = 2
+enter the value of var[2] = 3
+1   2   3
+
+main9.c
+
+felix@myserver:~/cprogramming/pointers$ ./a.out
+enter the string : felix
+the number of vowels = 2
+
+main10.c
+
+felix@myserver:~/cprogramming/pointers$ ./a.out
+after swapping = xelif
