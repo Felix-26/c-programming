@@ -1,6 +1,8 @@
 #include<stdio.h>
+int x;
 void mis() {
-	printf("hello,\" \"world");
+	//int x = 2;
+	printf("static int x = %d",x);
 }
 void findsize(){
 	short a;
