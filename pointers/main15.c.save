@@ -1,0 +1,30 @@
+/*Write a function that concatenates two strings using pointers.*/
+
+#include<stdio.h>
+#include<stdlib.h>
+
+void getString(char **string) {
+	int c,nc=0;
+	char *temp;
+	while((c=getchar())!='\n') {
+		temp = realloc(*string,nc*sizeof(char));
+		if(!temp) {
+			printf("memory not allocated!");
+			return;
+		}
+		*string=temp;
+		*(*(string)+nc) = (char)c;
+		nc++;
+	}
+	nc++;
+	*(*(string)+nc) = '\0';
+}
+
+int main() {
+	char *str1=NULL,*str2=NULL;
+//	getString(&str1);
+//	getString(&str2);
+	printf("%s",&str1);
+	printf("%s",&str2);
+	return 0;
+}

@@ -1,0 +1,196 @@
+main11.c
+
+
+felix@myserver:~/cprogramming/pointers$ ./a.out
+before reversal
+0       1       2       3       4       5       6       7       8       9
+
+after reversal
+9       8       7       6       5       4       3       2       1       0
+
+
+main12.c
+
+
+felix@myserver:~/cprogramming/pointers$ ./a.out
+Enter the no of rows and cols:
+3
+3
+enter the elements :
+1
+2
+3
+4
+5
+6
+7
+8
+9
+
+transpose matrix :
+1  4  7
+2  5  8
+3  6  9
+
+
+main13.c
+
+
+felix@myserver:~/cprogramming/pointers$ ./a.out
+Enter the number of integers you need to store : 2
+
+enter the elements :
+1
+2
+arrar = 1  2
+do you need to store more elements type 1 if you do otherwise type 0 :1
+how many more elements you need to add : 2
+
+enter the elements :
+3
+4
+arrar = 1  2  3  4
+do you need to store more elements type 1 if you do otherwise type 0 :1
+how many more elements you need to add : 5
+
+enter the elements :
+5
+6
+7
+8
+9
+arrar = 1  2  3  4  5  6  7  8  9
+do you need to store more elements type 1 if you do otherwise type 0 :0
+
+
+main14.c
+
+
+felix@myserver:~/cprogramming/pointers$ ./a.out
+size of str1 = 6
+0x62e25a9f16b0          f
+0x62e25a9f16b1          e
+0x62e25a9f16b2          l
+0x62e25a9f16b3          i
+0x62e25a9f16b4          x
+0x62e25a9f16b5
+0x62e25a9f16b6
+0x62e25a9f16b7
+str1 = felix
+str2 = felix
+size of str2 = 8
+
+
+main15.c
+
+
+felix@myserver:~/cprogramming/pointers$ ./a.out
+enter the string1 : felix
+enter the string2 : thomas
+concatenated string : felixthomas
+
+
+main16.c
+
+
+felix@myserver:~/cprogramming/pointers$ ./a.out
+1  2  3  4  5  6  7  7  8  9
+
+
+main17.c
+
+
+felix@myserver:~/cprogramming/pointers$ ./a.out
+
+1.add
+2.sub
+3.mul
+4.div
+5.exit
+select one option : 1
+enter a and b :
+5936
+9203
+sum = 15139
+
+1.add
+2.sub
+3.mul
+4.div
+5.exit
+select one option : 2
+enter a and b :
+3081
+933
+difference = 2148
+
+1.add
+2.sub
+3.mul
+4.div
+5.exit
+select one option : 3
+enter a and b :
+342
+61
+product = 20862
+
+1.add
+2.sub
+3.mul
+4.div
+5.exit
+select one option : 4
+enter a and b :
+6794
+34
+quotient = 199.82
+
+1.add
+2.sub
+3.mul
+4.div
+5.exit
+select one option : 6
+enter valid option!
+
+1.add
+2.sub
+3.mul
+4.div
+5.exit
+select one option : 5
+
+
+main18.c
+
+
+
+
+
+main20.c
+
+
+felix@myserver:~/cprogramming/pointers$ ./a.out
+enter the size of the array :10
+1
+2
+2
+3
+3
+3
+4
+4
+4
+4
+0x637d163f9af0          1
+0x637d163f9af4          2
+0x637d163f9af8          3
+0x637d163f9afc          4
+0x637d163f9b00          0
+0x637d163f9b04          0
+0x637d163f9b08          132353
+0x637d163f9b0c          0
+0x637d163f9b10          0
+0x637d163f9b14          0
+
