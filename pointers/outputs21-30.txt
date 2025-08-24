@@ -42,3 +42,18 @@ after swapping :
 0x7ffc7b50c510  cobra
 0x7ffc7b50c518  shark
 0x7ffc7b50c520  parrot
+
+
+main24.c
+
+
+felix@myserver:~/cprogramming/pointers$ ./a.out
+enter the string : elephant is a big animal.
+starting index and ending index : 4 13
+new substring = hant is a
+
+
+main25.c
+
+
+
