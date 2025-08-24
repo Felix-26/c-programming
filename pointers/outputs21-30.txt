@@ -1,0 +1,44 @@
+main21.c
+
+
+felix@myserver:~/cprogramming/pointers$ ./a.out
+no of elements between pointers = 5
+
+
+main22.c
+
+
+felix@myserver:~/cprogramming/pointers$ ./a.out
+enter the size of the array :4
+
+enter the array : 1 2 3 4
+
+how many elements to be rotated to left : 2
+
+rotated array :
+3       4       1       2 
+
+
+main23.c
+
+
+felix@myserver:~/cprogramming/pointers$ ./a.out
+enter the string at 0 : parrot
+enter the string at 1 : frog
+enter the string at 2 : cobra
+enter the string at 3 : shark
+enter the string at 4 : horse
+before swapping :
+
+[0x7ffc7b50c500] -> parrot
+[0x7ffc7b50c508] -> frog
+[0x7ffc7b50c510] -> cobra
+[0x7ffc7b50c518] -> shark
+[0x7ffc7b50c520] -> horse
+after swapping :
+
+0x7ffc7b50c500  horse
+0x7ffc7b50c508  frog
+0x7ffc7b50c510  cobra
+0x7ffc7b50c518  shark
+0x7ffc7b50c520  parrot
