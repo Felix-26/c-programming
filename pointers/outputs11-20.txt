@@ -165,7 +165,29 @@ select one option : 5
 main18.c
 
 
+felix@myserver:~/cprogramming/pointers$ ./a.out
+enter the value of a and b:
+12
+2
+sum = 14
+product = 24
 
+
+main19.c
+
+
+felix@myserver:~/cprogramming/pointers$ ./a.out
+enter the string : how
+enter the string : are
+enter the string : you
+enter the string : feeling
+enter the string : today ?
+the strings you have entered :
+how
+are
+you
+feeling
+today ?
 
 
 main20.c
@@ -187,10 +209,4 @@ enter the size of the array :10
 0x637d163f9af4          2
 0x637d163f9af8          3
 0x637d163f9afc          4
-0x637d163f9b00          0
-0x637d163f9b04          0
-0x637d163f9b08          132353
-0x637d163f9b0c          0
-0x637d163f9b10          0
-0x637d163f9b14          0
 

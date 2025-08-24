@@ -1,0 +1,40 @@
+/*Write a program that stores 5 strings in an array of pointers and 
+prints them.*/
+
+
+#include<stdio.h>
+#include<stdlib.h>
+#include<string.h>
+
+void storeString(char **sptr) {
+	char string[10];
+	scanf("%s",string);
+	*sptr = string;
+/*	int nc=0;
+	char c,*temp;
+	printf("enter the string you want to store : ");
+	while((c=getchar())!=(EOF ||'\n')) {
+		temp = realloc(str,nc*sizeof(char));
+		if(!temp) {
+			printf("memory not allocated!\n");
+			return;
+		}
+		str = temp;
+		*(str+nc) = c;
+		nc++;
+	}
+	nc++;
+	*(str+nc) = '\0';
+*/
+}
+
+int main() {
+	int i;
+	char *arr[5] = {NULL,NULL,1~NULL,};
+	for(i=0;i<5;i++) {
+		storeString(&arr[i]);
+	}
+	for(i=0;i<5;i++) {
+		printf("%s\n",(arr[i]));
+	}
+}
