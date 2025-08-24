@@ -1,4 +1,4 @@
-/*Implement your own version of strstr using pointers.*/
+/*Implement your own version of strstr(substring()) using pointers.*/
 
 #include<stdio.h>
 #include<stdlib.h>
