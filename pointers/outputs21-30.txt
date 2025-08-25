@@ -56,4 +56,25 @@ new substring = hant is a
 main25.c
 
 
+felix@myserver:~/cprogramming/pointers$ ./a.out
+enter the string to check if it is a palindrome : malayalam
+m == m ?
+a == a ?
+l == l ?
+a == a ?
+the string is a palindrome.
+
+
+main26.c
+
+
+
+main29.c
+
+
+felix@myserver:~/cprogramming/pointers$ ./a.out
+enter the string to be reversed by word : Hello World Program
+before reversal by word :Hello World Program
+after reversal by word :Program World Hello
+
 
