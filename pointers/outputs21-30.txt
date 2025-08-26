@@ -78,3 +78,42 @@ before reversal by word :Hello World Program
 after reversal by word :Program World Hello
 
 
+main30.c
+
+
+felix@myserver:~/cprogramming/pointers$ ./a.out
+enter the size of the array : 10
+arr[0] = 42
+arr[0] = 7
+arr[0] = 19
+arr[0] = 85
+arr[0] = 3
+arr[0] = 56
+arr[0] = 14
+arr[0] = 67
+arr[0] = 25
+arr[0] = 9
+before sorting
+42      7       19      85      3       56      14      67      25      9
+after sorting
+3       7       9       14      19      25      42      56      67      85
+enter the number to be searched : 67
+loop 1
+-------
+l = 0
+r = 9
+mid = 4
+
+loop 1
+-------
+l = 5
+r = 9
+mid = 7
+
+loop 1
+-------
+l = 8
+r = 9
+mid = 8
+
+search element is found at index : 8
