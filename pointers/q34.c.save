@@ -1,0 +1,9 @@
+/*Implement a stack using a linked list where push, pop, and peek operations use pointers.*/
+
+#include<stdio.h>
+#include<stdlib.h>
+
+int main() {
+	
+}
+
