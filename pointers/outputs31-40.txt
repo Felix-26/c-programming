@@ -1,0 +1,34 @@
+main31.c
+
+
+felix@myserver:~/cprogramming/pointers$ ./a.out
+enter the value to be inserted : 2
+enter the value to be inserted : 3
+enter the value to be inserted : 4
+1 -> 2 -> 3 -> NULL
+
+
+main32.c
+
+
+felix@myserver:~/cprogramming/pointers$ ./a.out
+enter the number of rows and coloums :
+3
+3
+enter 9 elements to the matrix :
+1
+2
+3
+4
+5
+6
+7
+8
+9
+
+  1  2  3
+  4  5  6
+  7  8  9
+
+
+
